@@ -1,4 +1,5 @@
 # Love2D_PingPOng
+![](pong_splash.png)
 
 My first go at using the Game Enginge [LÖVE](https://love2d.org/).
 
